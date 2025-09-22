@@ -50,6 +50,7 @@ RAWG_API_KEY=your_rawg_api_key_here
 5. Start the server:
 
 ```
+cd server
 python rawg_mcp_server.py
 ```
 
