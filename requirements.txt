@@ -1,5 +1,3 @@
-fastapi==0.109.1
-uvicorn==0.23.2
-requests==2.32.0
-python-dotenv==1.0.1
-jsonrpcserver==6.8.1
+fastmcp>=0.1.0
+requests>=2.31.0
+python-dotenv>=1.0.0
